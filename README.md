@@ -110,3 +110,10 @@ Database `mvp_php` memiliki satu tabel utama:
 3. Jika user mengkonfirmasi, browser diarahkan ke `index.php?action=delete&id=X`
 4. `ProsesMahasiswa` menghapus data melalui method `hapusMahasiswa()`
 5. User diarahkan kembali ke halaman utama
+
+## Dokumentasi
+
+https://github.com/user-attachments/assets/ab7731a2-6058-4010-b0fe-b2dc7acb291e
+
+
+
