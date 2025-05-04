@@ -1,6 +1,6 @@
-# Desain Program dan Alur Sistem Manajemen Data Mahasiswa
+# TP9DPBO2025C1
 
-Berdasarkan kode yang diberikan, ini adalah aplikasi manajemen data mahasiswa yang mengimplementasikan pola arsitektur Model-View-Presenter (MVP). Saya akan menjelaskan desain program dan alur kerjanya.
+Saya Yazid Madarizel dengan NIM 2305328 mengerjakan soal TP 9 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Arsitektur Program (MVP)
 
