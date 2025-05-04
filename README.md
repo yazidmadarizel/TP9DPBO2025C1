@@ -2,6 +2,9 @@
 
 Saya Yazid Madarizel dengan NIM 2305328 mengerjakan soal TP 9 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
+## Desain Program
+![image](https://github.com/user-attachments/assets/d409f07b-ae39-4eb4-9b30-86a4c4975775)
+
 ## Arsitektur Program (MVP)
 
 Program ini menggunakan pola arsitektur Model-View-Presenter (MVP) yang membagi aplikasi menjadi tiga komponen utama:
