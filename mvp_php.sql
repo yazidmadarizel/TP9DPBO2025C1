@@ -13,12 +13,6 @@ File Encoding         : 65001
 Date: 2025-05-02 11:53:37
 */
 
-DROP DATABASE IF EXISTS mvp_php;
-
-CREATE DATABASE mvp_php;
-
-USE mvp_php;
-
 SET FOREIGN_KEY_CHECKS=0;
 -- ----------------------------
 -- Table structure for `mahasiswa`
